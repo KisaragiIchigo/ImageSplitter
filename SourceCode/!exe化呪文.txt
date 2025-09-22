@@ -1,0 +1,1 @@
+pyinstaller ImageSplitter.py  --onefile --noconsole --clean --noconfirm  --icon pst.ico  --name ImageSplitter  --add-data "pst.ico;."
